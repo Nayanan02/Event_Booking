@@ -1,3 +1,4 @@
+#Event-Booking
 An event booking application built with React that displays a list of events and allows users to view event details, search and filter events, and book tickets. The application features state management with React hooks, simulated data fetching, pagination, and a simple authentication system.
 Usage
 1.View Events: On the homepage, view a list of available events with their details.
